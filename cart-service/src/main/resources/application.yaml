@@ -1,8 +1,20 @@
 server:
   port: 8082
+  tomcat:
+    threads:
+      max: 25
+    accept-count: 50
+    max-connections: 100
 hm:
   db:
     database: hm-cart
   swagger:
     title: "黑馬商城購物車接口文檔"
     package: com.hmall.cart.controller
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8090
+        port: 8719  # 本機與 sentinel-dashboard 通訊的埠，預設寫8719即可
+      http-method-specify: true #是否設置請求方式作為資源名稱
