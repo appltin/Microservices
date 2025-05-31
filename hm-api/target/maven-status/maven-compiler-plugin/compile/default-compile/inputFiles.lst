@@ -1,3 +1,9 @@
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/client/CartClient.java
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/dto/OrderDetailDTO.java
 /home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/dto/ItemDTO.java
 /home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/client/ItemClient.java
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/client/UserClient.java
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/client/fallback/ItemClientFallbackFactory.java
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/config/DefaultFeignConfig.java
+/home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/hmall/api/client/TradeClient.java
 /home/hello-world/Desktop/springCloud/hmall/hm-api/src/main/java/com/heima/Main.java

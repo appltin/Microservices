@@ -1,6 +1,6 @@
 spring:
   application:
-    name: cart-service # 微服務名稱
+    name: item-service # 微服務名稱
   profiles:
     active: dev
   cloud:
